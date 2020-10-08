@@ -1,0 +1,54 @@
+[{
+    "name": "Bulbasaur",
+    "number": "001",   
+    "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "types": ["poison", "grass"]
+},
+{
+    "name": "Ivysaur",
+    "number": "002",    
+    "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "types": ["poison", "grass"]
+},
+{
+    "name": "Venusaur",
+    "number": "003",   
+    "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/003.png",
+    "types": ["poison", "grass"]
+},
+{
+    "name": "Charmander",
+    "number": "004",    
+    "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "types": ["fire"]
+},
+{
+    "name": "Charmeleon", 
+    "number": "005",   
+    "art_url": "http://assets22.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+    "types": ["fire"]
+}
+{
+    "name": "blaze",
+    "number": "66",   
+    "art_url": "https://pokeapi.co/api/v2/ability/66/",
+    "types": ["fire"]
+}
+{
+    "name": "solar-power",
+    "number": "94",    
+    "art_url": "https://pokeapi.co/api/v2/ability/94/",
+    "types": ["fire"]
+}
+{
+    "name": "fire",
+    "number": "10",    
+    "art_url": "https://pokeapi.co/api/v2/type/10/",
+    "types": ["fire"]
+}
+{
+    "name": "swarm",
+    "number": "68",     
+    "art_url": "https://pokeapi.co/api/v2/ability/68/",
+    "types": ["fire"]
+}]

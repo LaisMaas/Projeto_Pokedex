@@ -1,0 +1,38 @@
+# Software Developer Intern: 3D Pokédex
+
+Neste desafio da R2U, queremos avaliar o seu conhecimento de programação e a sua capacidade de aprendizado.
+
+Não esperamos que nenhum participante tenha conhecimento prévio das tecnologias exigidas, mas sim que pesquise, aprenda e consiga desenvolver algo novo.
+
+Você terá **7 dias corridos** para entregar a resolução através de um **repositório público no github**.
+
+O problema está descrito em etapas incrementais, então lembre-se de enviar apenas o resultado final. Não é necessário completar todas as partes do desafio, mas quanto mais longe você for, melhor.
+
+### 1. Implemente uma Pokédex
+
+Construa um web app, usando qualquer tecnologia que conheça, para a visualização de Pokémons. Sua [Pokédex](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9dex) deve listar o nome, número, foto e tipo dos Pokémons. Ela deve conter pelo menos 10 Pokémons cadastrados.
+
+Observe que não há nenhum requisito relacionado a UI/UX. Sendo assim, você tem total autonomia na definição do front-end da aplicação.
+
+### 2. Adicione funcionalidades à sua Pokédex
+
+Adicione mecanismos de busca e filtro à Pokédex. Outras features também podem ser incluídas.
+
+### 3. Inclua mais Pokémons na sua Pokédex
+
+Faça o consumo de uma RESTful API para a consulta de Pokémons e permita a visualização de pelo menos 150 Pokémons. Você pode usar, por exemplo, a [PokéAPI](https://pokeapi.co/).
+
+### 4. Hospede o projeto em um site público
+
+Você pode fazer isso através do [Github Pages](https://pages.github.com/) ou qualquer outra maneira que preferir. Envie o link do site juntamente com o seu projeto do Github.
+
+### (bônus #1) Inclua a visualização 3D de Pokémons
+
+É possível encontrar modelos 3D de Pokémons em sites como o [Google Poly](https://poly.google.com/search/pok%C3%A9mon). Adicione pelo menos 10 modelos 3D de Pokémons, indicando na Pokédex que eles possuem esse tipo de visualização. Inclua a possibilidade de filtrar por Pokémons com modelo 3D na Pokédex.
+
+### (bônus #2) Adicione realidade aumentada na sua Pokédex
+
+Além da visualização 3D de Pokémons no browser, permita que os usuários mobile visualizem o Pokémon no mundo real através de AR.
+
+
+Disponível em: <script src= "https://github.com/r2u-io/processo-seletivo/blob/master/2020-10.md"></script>
